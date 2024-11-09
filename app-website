@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Health App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Willkommen bei der Digital Health App</h1>
+        <nav>
+            <ul>
+                <li><a href="about.html">Über uns</a></li>
+                <li><a href="features.html">Funktionen</a></li>
+                <li><a href="pricing.html">Preise</a></li>
+                <li><a href="contact.html">Kontakt</a></li>
+                <li><a href="sitemap.html">Sitemap</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Unsere Mission</h2>
+            <p>Die Digital Health App bietet benutzerfreundliche Werkzeuge zur Unterstützung der mentalen Gesundheit. Mit wissenschaftlich fundierten Ansätzen, hilft sie dabei, Depressionen, Angststörungen und Stress zu reduzieren.</p>
+        </section>
+
+        <section>
+            <h2>Unsere Funktionen</h2>
+            <p>Nutzen Sie Achtsamkeitsübungen, tägliche Reflexion und mehr zur Verbesserung Ihrer mentalen Gesundheit.</p>
+            <a href="features.html">Erfahren Sie mehr</a>
+        </section>
+
+        <section>
+            <h2>Kontaktieren Sie uns</h2>
+            <p>Für weitere Informationen oder Fragen, kontaktieren Sie uns direkt.</p>
+            <a href="contact.html">Kontakt</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Digital Health App</p>
+    </footer>
+</body>
+</html>
